@@ -1,1 +1,19 @@
-paladinsss
+sudo npm install   安装
+npm run dev   开发环境
+npm run build  正式（正在写...）
+
+
+
+#####
+_dist   打包后文件
+build   开发/build文件
+config  环境变量
+dist    项目文件，打包前
+	***(文件夹)     对应业务文件
+		components    组件
+		router        路由
+		store         数据层
+		view          视图层
+		***.vue		  主视图文件
+		index.js	  入口文件
+pal-map   对应视图文件(对应js和html关系)

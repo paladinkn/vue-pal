@@ -16,4 +16,5 @@ dist    项目文件，打包前
 		view          视图层
 		***.vue		  主视图文件
 		index.js	  入口文件
+***.html  html文件 
 pal-map   对应视图文件(对应js和html关系)
